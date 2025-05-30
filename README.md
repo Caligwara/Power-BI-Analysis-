@@ -1,4 +1,4 @@
-# Power-BI-Analysis-
+I # Power-BI-Analysis-
 
 
 # Project Title: Employee Gender Analysis
@@ -135,6 +135,13 @@ The total count of employees in this department is 6  with males and female both
 This gender balanced department shows the males being paid more than the females by a slight difference. Males having more senior roles in this department can also explain this slight difference in pay. 
 
 
+Recommendations
+
+Investigate salary disparities in high-paying departments (like Operations and Finance) to ensure gender pay equity.
+
+Evaluate role distribution by gender in each department — are men getting higher-paying roles?
+
+Consider boosting compensation or incentives in Sales and Marketing if those departments are critical to growth but underfunded. 
 
 Conclusion
 
