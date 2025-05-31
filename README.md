@@ -13,7 +13,7 @@ This is a personal project to show the gender workforce and strength in a workpl
 
 The data source is an Ai generated excel csv. File containing data from the Human Resources (HR) Department. 
 
-
+![](https://github.com/Caligwara/Power-BI-Analysis-/blob/main/Screenshot%20(46).png) 
 
 ## Tools Used
 
