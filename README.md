@@ -1,4 +1,5 @@
-I # Power-BI-Analysis-
+# Power-BI-Analysis-
+![Uploading Screenshot (42).png…]()
 
 
 # Project Title: Employee Gender Analysis
