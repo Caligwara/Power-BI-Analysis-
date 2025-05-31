@@ -83,7 +83,15 @@ Operations department
 
 Sales department. 
 
-The chart shows that the Operations department has the highest salary at 908,850. This is followed by the Finance department at 772,470  then the IT department at 760,060. The lower half of the salary scale are the HR, Marketing and Sales department respectively. 
+The chart shows that the Operations department has the highest salary at 908,850. This is followed by the Finance department at 772,470  then the IT department at 760,060. The lower half of the salary scale are the HR, Marketing and Sales department respect
+
+![Screenshot (45)](https://github.com/user-attachments/assets/f1ccfb12-61e7-4c8e-a5e3-83c2c78bf761)
+
+
+
+
+
+ively. 
 
 Aside from the slicer displaying the various departments, the dashboard shows a cluster bar chart that shows the total male salary at 1.96million and the total female salary at 1.73million.
 
@@ -91,15 +99,15 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 ### Based On Departments 
 
 Finance Department 
-Screenshot (43)
-
-(https://github.com/user-attachments/assets/b134c249-a401-49aa-b459-6ea95cb879f2)
+Screenshot (43(https://github.com/user-attachments/assets/b134c249-a401-49aa-b459-6ea95cb879f2)
 
 The total count of employees in this department is  10 with the males being more in population with a count of 6 and the female gender count at 4
 
 The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department 
 
 HR Department 
+![Screenshot (42)]
+https://github.com/user-attachments/assets/6c24e036-a800-41ea-bdba-31891c2094d2
 
 The total count of employees in this department is 6  with males and female both having a count of 3. 
 
@@ -122,6 +130,7 @@ This is another gender balanced department but the salary by gender report shows
 
 
 
+/[](https://github.com/user-attachments/assets/cd24adbc-267b-499e-af60-8fb88beada69)
 
 Operations Department 
 
