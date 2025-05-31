@@ -91,6 +91,9 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 ### Based On Departments 
 
 Finance Department 
+Screenshot (43)
+
+(https://github.com/user-attachments/assets/b134c249-a401-49aa-b459-6ea95cb879f2)
 
 The total count of employees in this department is  10 with the males being more in population with a count of 6 and the female gender count at 4
 
