@@ -1,5 +1,5 @@
 # Power-BI-Analysis-
-![Uploading Screenshot (42).png…]()
+![Uploading Screenshot (42).png…](https://github.com/Caligwara/Power-BI-Analysis-/blob/main/Screenshot%20(42).png)
 
 
 # Project Title: Employee Gender Analysis
