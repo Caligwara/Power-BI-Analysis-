@@ -1,0 +1,101 @@
+Employee ID,First Name,Last Name,Gender,Date of Birth,Department,Job Title,Employment Type,Hire Date,Salary,Email,Phone Number,Address,City,State,Zip Code,Country,Marital Status,Emergency Contact Name,Emergency Contact Phone
+EMP001,Anthony,Adams,Male,1999-05-24,Finance,Payroll Specialist,Part-time,2024-12-02,41073.78,hblevins@yahoo.com,001-387-275-3678x0609,"238 William Manor Apt. 243
+Port Patrick, AK 17963",New Julie,New Jersey,20591,USA,Married,Crystal Nelson,331-907-0099
+EMP002,Jonathan,Price,Male,1986-04-13,Operations,Operations Manager,Contract,2022-11-22,56740.34,qstafford@johnson.com,996.729.3575x0219,"01055 Miller Square
+Paulburgh, ID 47069",Port Rodney,New York,77928,USA,Married,Lisa Ware,(050)891-2324
+EMP003,Donald,Fitzgerald,Male,1972-01-28,HR,Recruiter,Part-time,2022-12-24,107338.05,ashleyadkins@hotmail.com,+1-002-971-5114x5798,"3379 Clark Mountains
+Seanhaven, MD 74665",East Steven,Oregon,67892,USA,Single,Mary Rice,+1-279-647-8924x53759
+EMP004,Kathleen,Kim,Male,1998-12-26,Operations,Supply Chain Analyst,Full-time,2020-11-24,98446.63,andersonpamela@patterson-knight.com,(001)514-3731x068,"29324 James Flats Suite 554
+North Malloryland, WA 95572",North Alexandria,Alaska,79757,USA,Single,Rebecca Baldwin,382.914.2053x8582
+EMP005,Mark,Lee,Female,1967-10-19,IT,Software Engineer,Full-time,2019-04-30,60916.56,hendersonjohn@wade.info,515.686.2146x9466,"567 Huang Pass Suite 888
+New Kevin, MN 30943",South Ashleyburgh,Kansas,99006,USA,Single,Jason Miller,(161)754-2517
+EMP006,Teresa,Gardner,Male,1965-04-04,Operations,Operations Manager,Part-time,2022-06-02,40185.98,simpsonashley@warner.org,+1-349-354-9656x551,"83087 Ryan Pine Apt. 985
+New Jeffrey, AL 74997",Wilsonbury,West Virginia,38823,USA,Married,Tyler Barron,(598)108-0388
+EMP007,William,Bailey,Female,1984-04-13,IT,Data Analyst,Contract,2024-12-24,83781.21,brianbaker@gmail.com,259-915-3542x7519,"49077 Wright Valleys Apt. 159
+Spencerville, MA 34865",Jasminemouth,Kentucky,71175,USA,Widowed,Kevin Ball,001-667-265-9330x5320
+EMP008,William,Ferrell,Female,1997-12-17,IT,Data Analyst,Contract,2017-02-08,74059.58,leonjames@long-gilbert.net,001-103-767-9260x5529,"724 Ryan Crescent Suite 554
+Lisafurt, CT 03578",Jamesborough,Wyoming,35276,USA,Widowed,Aaron Bond,(569)624-1060
+EMP009,David,Morrison,Male,1987-04-18,IT,Data Analyst,Contract,2023-02-16,112214.04,zoe78@gmail.com,366.551.4971x29726,"2093 Belinda Streets Suite 719
+Kimberlymouth, NY 63490",Ethanside,Nebraska,67179,USA,Widowed,David King,7545216644
+EMP010,Holly,Howe,Female,2001-03-06,Marketing,Marketing Manager,Full-time,2018-09-02,75566.28,psmith@gmail.com,2437770662,"5912 Lynn Garden Suite 458
+Bennettburgh, NH 80404",East Alison,Idaho,82287,USA,Single,John Lee,(817)483-0300
+EMP011,Randy,Wilson,Female,2002-12-13,Sales,Sales Representative,Part-time,2024-04-08,37899.19,devinpena@patel.com,940-456-3931x2883,"734 Angela Extensions
+New Karen, PA 27837",Port Jennifer,Minnesota,77378,USA,Single,Brett Wilson,+1-518-691-7208x8798
+EMP012,Stephanie,Ewing,Male,1986-08-18,Finance,Payroll Specialist,Full-time,2024-11-18,118875.1,vhall@gmail.com,001-614-179-8867x3133,"PSC 2393, Box 8385
+APO AA 08353",Port Jean,Ohio,22479,USA,Widowed,Joseph Shelton,001-676-141-6317x53539
+EMP013,Reginald,Hansen,Male,1971-08-01,IT,Data Analyst,Full-time,2019-08-09,60376.61,leeteresa@calderon.com,228-814-2830x8870,"5241 Christina Route
+Wadechester, MO 23032",New Christophermouth,Hawaii,23714,USA,Divorced,Hunter Martin,866.604.5545x15430
+EMP014,Matthew,Mejia,Female,2001-11-30,Sales,Sales Representative,Contract,2023-12-21,71695.12,isimpson@gmail.com,+1-601-249-0967x7736,"192 Joseph Trafficway
+South Christine, DC 72551",Williamside,Kansas,40027,USA,Widowed,Mrs. Marie Zamora,0113260970
+EMP015,Kelly,Rivera,Female,1997-06-19,HR,Recruiter,Contract,2017-08-28,75586.48,bradleycastillo@yahoo.com,001-622-865-0341x63674,"4728 Pamela Turnpike
+Port Davidborough, IA 70620",Jessicaborough,Delaware,27577,USA,Married,Danielle Vaughn,001-702-218-4356x617
+EMP016,Yvonne,Weiss,Female,1978-09-23,Finance,Payroll Specialist,Part-time,2015-06-01,100225.98,ryankristine@gmail.com,400.494.4519,"388 Patterson Estates
+South Lawrencestad, OH 07019",Jenniferview,Washington,07587,USA,Widowed,Dylan Miller,001-269-331-3582x8171
+EMP017,Lorraine,Mullins,Female,1985-04-04,Sales,Sales Representative,Full-time,2021-02-03,75183.57,natasha87@hotmail.com,001-555-093-1492x550,"12561 Edwards Ferry
+New Kendrafort, OR 37970",Port Pamela,Wyoming,51607,USA,Widowed,Billy Davis,(578)390-1916x2686
+EMP018,Sean,Jensen,Female,1974-10-12,IT,Software Engineer,Part-time,2024-04-20,102408.82,robert18@garcia.com,399.263.4209,"193 Martin Bridge Suite 587
+North Michael, ND 64776",East Danielville,Mississippi,88977,USA,Widowed,Danny Miller,001-997-954-5555x801
+EMP019,Kelly,Huynh,Female,1978-12-31,HR,Recruiter,Part-time,2018-05-06,72518.43,franciscodowns@hotmail.com,001-213-629-4537,"225 Hart Rapids Suite 422
+Brianhaven, NH 44171",Annamouth,Oklahoma,79385,USA,Married,Sarah Richardson,2782290097
+EMP020,Dylan,Wilkinson,Male,1995-06-15,Sales,Account Executive,Contract,2016-03-26,90590.85,pcamacho@ellis-curry.org,+1-271-338-8156x56619,"8460 Anthony Inlet Suite 640
+West Matthew, AL 03182",South Zachary,Missouri,04031,USA,Widowed,Jeremy Li,+1-144-923-1350
+EMP021,Maria,Leonard,Male,1977-08-17,Finance,Accountant,Full-time,2018-08-13,70768.67,anna07@nelson-adams.com,(135)067-8777,"08371 Wright Manors Suite 149
+Foxfurt, LA 80366",Richardsshire,Ohio,01784,USA,Widowed,Lisa Jackson,(523)135-4841x909
+EMP022,William,Phillips,Male,1979-03-28,Operations,Logistics Coordinator,Part-time,2023-09-10,55304.33,mathisjason@velez.net,121.420.4601,"64375 Brett Lake Apt. 576
+West Jennifer, MN 34943",Terriborough,Nevada,55847,USA,Married,Barry Shannon,+1-158-429-4438x670
+EMP023,Carlos,Wilson,Female,1991-08-22,Operations,Operations Manager,Full-time,2023-09-30,54450.49,matthew19@lester.biz,6532963381,"PSC 1521, Box 4848
+APO AE 96731",Davidview,Idaho,98694,USA,Married,Scott Weiss,646.153.5803x3728
+EMP024,Matthew,Perez,Female,2000-04-17,Finance,Financial Analyst,Part-time,2020-12-09,98382.8,jessica25@yahoo.com,104-620-6984,"281 Brown Island Apt. 918
+Seanberg, GA 88227",North Rachel,Idaho,24313,USA,Married,Eric Coleman,084.942.9711x44895
+EMP025,James,Moore,Male,1985-04-12,Sales,Sales Manager,Contract,2016-12-24,57442.61,martinezteresa@hotmail.com,+1-319-791-4418,"6356 Jonathan Fords Apt. 833
+Lake Michael, SD 24681",Smithville,New York,81234,USA,Divorced,Austin Wade,001-936-803-5284
+EMP026,Shirley,Hernandez,Female,1976-02-26,Operations,Operations Manager,Part-time,2020-05-25,38400.81,arthur33@miller-tucker.com,+1-039-998-3107,"82448 Anderson Shore Suite 246
+Robinsonville, AR 54480",Lake Jessica,Arizona,80285,USA,Divorced,Michelle Maxwell,426-551-3348
+EMP027,Susan,Bradford,Male,1968-07-16,HR,Recruiter,Part-time,2015-12-07,52696.12,jsims@hotmail.com,674.174.1827x530,"171 Huynh Via
+Herreraville, IL 79771",New Jacqueline,Missouri,93444,USA,Divorced,Eric Cobb,+1-560-368-5055x7477
+EMP028,Rachel,Mclaughlin,Female,1973-02-20,Marketing,Content Creator,Contract,2018-03-28,101444.04,caitlinmcintyre@pierce.org,001-798-321-4444x8290,"79138 Mcneil Circles
+Cathychester, NY 16513",Orrburgh,South Carolina,44761,USA,Widowed,Kristopher Stewart,1757802249
+EMP029,Darius,Ward,Male,1975-08-20,Finance,Payroll Specialist,Part-time,2022-04-05,107994.85,fsanders@wilkerson.com,(413)903-6979,"518 Miller Ways
+New Danielberg, TN 73720",Rileyfurt,Illinois,36182,USA,Divorced,Jesse Perry,606.432.5524x57550
+EMP030,Cesar,Zimmerman,Female,1990-09-15,IT,IT Support,Contract,2018-10-21,58025.49,kristincampbell@jones-bauer.net,001-506-093-4405x7640,"4464 Brian Parks
+Mccannstad, NJ 83080",South Kayla,Kentucky,44572,USA,Widowed,Joanna Morris,902.858.2771
+EMP031,Denise,Hunter,Female,1981-09-06,IT,IT Support,Part-time,2024-01-03,116594.2,cody29@garza.net,129.141.2380x674,"8119 Morales Common Apt. 759
+Kennethbury, NV 87869",East Lisa,Kansas,75517,USA,Married,Jessica Robles,364-189-1432
+EMP032,Adrian,Stephens,Male,1995-09-01,Finance,Accountant,Contract,2019-05-02,37983.58,vsullivan@gmail.com,+1-212-316-9950x14379,"93778 Johnson Key Suite 382
+Jorgeside, RI 54397",North Bryanchester,Pennsylvania,69909,USA,Married,Amber Patel,(193)220-4848
+EMP033,Charles,Walker,Male,1999-09-08,Finance,Financial Analyst,Part-time,2019-01-14,77017.85,adkinschristopher@hotmail.com,001-046-418-9853x010,"6190 Rivera Land
+South Courtney, CT 59799",Nathanside,Wisconsin,68962,USA,Single,Steven Ramos,(497)128-0638x67687
+EMP034,Nicole,Jefferson,Male,1976-08-08,Marketing,SEO Specialist,Contract,2023-02-14,56874.65,donald67@gmail.com,463.438.3942,"469 Burton Squares Apt. 649
+East Dennis, ID 75410",South Lindsey,Illinois,94264,USA,Divorced,Betty Mitchell,162.511.8688x48428
+EMP035,Dorothy,Ruiz,Female,1994-06-11,Finance,Accountant,Full-time,2016-01-09,84895.99,jill16@yahoo.com,+1-954-748-6246,"6053 Smith Path
+Amberfurt, NH 34660",East Katherineborough,South Carolina,67046,USA,Widowed,Dr. Brent Ruiz,8989805413
+EMP036,Clifford,Johnson,Female,1992-04-07,IT,Software Engineer,Full-time,2015-10-11,30828.72,steven72@russell.net,910-050-8179,"486 Renee Isle
+Patrickshire, VT 24895",Aaronland,Nebraska,05965,USA,Single,Mary Hahn,(401)487-9760
+EMP037,Shaun,Tanner,Female,1997-12-31,HR,HR Assistant,Part-time,2022-01-08,72232.0,nguyenemily@day.org,001-981-822-4187x606,"99933 Anthony Ford Apt. 087
+Brentfurt, AL 83262",West Tammyfurt,Georgia,01913,USA,Divorced,Christopher Smith,001-413-004-4580x64820
+EMP038,Peter,Dyer,Male,1982-03-27,IT,Data Analyst,Contract,2021-03-01,60850.23,james28@davis.com,001-162-746-1137x296,"41224 Villegas Brooks Apt. 458
+Lake Meganmouth, ND 31521",Wrightside,Delaware,07835,USA,Divorced,Wesley Ross,000-295-0976
+EMP039,Gloria,Carpenter,Male,1970-05-13,Sales,Sales Manager,Part-time,2023-01-02,43288.73,denisefoster@collins.com,001-901-287-8101,"618 Daniel Knoll Apt. 835
+Teresachester, TN 94882",Fosterville,South Dakota,30162,USA,Widowed,Jared Collins,(330)583-8127x265
+EMP040,Scott,Russell,Male,2000-02-09,Operations,Operations Manager,Full-time,2015-10-29,101080.62,aaronhoward@lee.info,606.192.9239,"9511 Tina Extension
+Santiagoport, ID 57654",New Wanda,Missouri,29833,USA,Widowed,Sean Ramos,001-102-564-5421
+EMP041,Jessica,Johnson,Male,1985-12-03,Operations,Supply Chain Analyst,Full-time,2018-11-24,112401.95,michelle06@hotmail.com,001-223-854-2544,"059 Kenneth Ways Apt. 185
+North Brady, CO 80718",North Carlos,Wyoming,42988,USA,Married,Shawn Mclaughlin,+1-421-960-5421
+EMP042,Kristin,Peterson,Male,1988-03-25,HR,HR Manager,Part-time,2019-08-29,77578.88,hmoore@yahoo.com,844-412-7710x719,"816 Joseph Shoals Suite 229
+Jaymouth, RI 05786",Lake Cathy,Oregon,98656,USA,Widowed,Teresa Gonzalez,6820134941
+EMP043,Nicholas,Marshall,Female,1984-12-03,Operations,Operations Manager,Part-time,2023-06-18,51562.4,katherine09@yahoo.com,890-301-1612,"7305 Phillips Pines Suite 693
+Robertland, TX 18340",Lake Gregory,Alaska,16625,USA,Married,Kimberly Gutierrez,(508)206-3740
+EMP044,Marvin,Williams,Female,1991-06-05,Finance,Financial Analyst,Part-time,2022-12-26,35256.32,mendozaantonio@gmail.com,+1-879-026-9619x39776,"PSC 7708, Box 1962
+APO AA 64312",Port Terri,Tennessee,02433,USA,Widowed,Adam Ellis,(653)622-1592
+EMP045,John,Murphy,Female,1964-04-14,Marketing,Marketing Manager,Part-time,2024-07-27,65365.81,bblair@sheppard.com,001-877-172-7151x765,"850 Melendez Islands Apt. 827
+New Adam, MD 88244",Port Courtney,Missouri,04820,USA,Single,Jody Brown,(922)626-7677x908
+EMP046,Kathleen,Brown,Male,1978-09-03,Marketing,SEO Specialist,Full-time,2021-01-31,61270.94,williamcarpenter@hawkins-ochoa.com,568-126-9050x476,"6586 Gray Port
+Hillview, IN 25099",Ronaldport,Arkansas,17268,USA,Divorced,Krystal Horton,001-193-871-4309x414
+EMP047,Robert,Garcia,Male,1999-12-30,Operations,Operations Manager,Contract,2024-03-22,116098.94,chavezjonathan@wright.com,+1-285-086-1505x2138,"6666 Yang Ranch
+Hernandezburgh, ME 84225",Christinefort,California,04811,USA,Single,Jason Wang,403.245.5094
+EMP048,Pamela,Gonzalez,Male,1997-10-04,Marketing,Marketing Manager,Part-time,2017-04-29,57732.29,dianahobbs@yahoo.com,362-053-8838x0456,"Unit 9376 Box 7609
+DPO AA 60213",New Steven,Oklahoma,45727,USA,Married,Lisa Wood,3359897500
+EMP049,Alan,Rogers,Male,1966-06-04,Operations,Supply Chain Analyst,Contract,2022-04-09,89478.9,mmartin@patrick.biz,001-444-553-8502x9962,"17426 Davis Stream
+West Tanya, ME 28537",Vasquezside,Vermont,06123,USA,Single,Joshua Moody,098-307-1560
+EMP050,Tabitha,Tucker,Female,1997-03-31,Operations,Logistics Coordinator,Part-time,2024-01-08,94694.67,kimberly66@mcdonald-lee.com,343.690.6872x67715,"8211 Goodwin Mews
+Ericaport, NV 50462",Nicoleborough,Massachusetts,01190,USA,Widowed,David Coleman,842.129.2577x9460
