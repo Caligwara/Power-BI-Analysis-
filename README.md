@@ -85,16 +85,16 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 **Finance Department** 
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/2661af28-50fa-4347-9611-045058f8131c)
+
 - The total count of employees in this department is  10 with the males being more in population with a count of 6 and the female gender count at 4.
 - The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department.
 
-HR Department 
-![Screenshot (42)]
-https://github.com/user-attachments/assets/6c24e036-a800-41ea-bdba-31891c2094d2
+**HR Department**
 
-The total count of employees in this department is 6  with males and female both having a count of 3. 
+![Screenshot (49)](https://github.com/user-attachments/assets/df3074f6-0861-499a-9a3b-33f08e6e9ca8)
 
-The salary by gender reflects the males being paid more than the females. This can be due the males having more senior roles in this department hence higher salaries. 
+- The total count of employees in this department is 6  with males and female both having a count of 3. 
+- The salary by gender reflects the males being paid more than the females. This can be due the males having more senior roles in this department hence higher salaries. 
 
 
 
