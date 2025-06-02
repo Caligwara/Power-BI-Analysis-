@@ -105,11 +105,12 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 - The total count of employees in this department is  10 with the female count being significantly high at 7 and the male gender count at 3.
 - The salary by gender reflects the females being paid more than the male gender. The report shows this a female dominated department in both population and senior roles, thus they earn significantly higher than their male counterpart.  
 
-HR Department 
+**Marketing Department**
 
-The total count of employees in this department is 6  with males and female both having a count of 3. 
+![Screenshot (53)](https://github.com/user-attachments/assets/6b8493d4-265e-43f4-871f-bd56da1371a6)
 
-This is another gender balanced department but the salary by gender report shows the females being paid more than the males. This can also be due the females having more senior roles in this department. 
+- The total count of employees in this department is 6  with males and female both having a count of 3. 
+- This is another gender balanced department but the salary by gender report shows the females being paid more than the males. This can also be due the females having more senior roles in this department. 
 
 
 
