@@ -50,7 +50,7 @@ Data is prepared by importing the csv file on Excel to understand the data and p
 
 3. Visualizations
 
- ![Screenshot (42)](https://github.com/user-attachments/assets/a5643812-b5b0-43aa-a4d7-9a13b828b74e)
+![Screenshot (55)](https://github.com/user-attachments/assets/70176be6-9b7d-44c7-896f-3d92f46bfaf5)
 
 
 
@@ -78,13 +78,14 @@ The lower half of the salary scale are the HR, Marketing and Sales department re
 
 Aside from the slicer displaying the various departments, the dashboard shows a cluster bar chart that shows the total male salary at 1.96million and the total female salary at 1.73million.
 
+
 ## Insights 
 
 ### Based On Departments 
 
 **Finance Department** 
 
-![Screenshot (43)](https://github.com/user-attachments/assets/2661af28-50fa-4347-9611-045058f8131c)
+![Screenshot (54)](https://github.com/user-attachments/assets/0fd312b3-05bf-40ad-ba1f-2066e1926357)
 
 - The total count of employees in this department is  10 with the males being more in population with a count of 6 and the female gender count at 4.
 - The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department.
@@ -110,41 +111,35 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 ![Screenshot (53)](https://github.com/user-attachments/assets/6b8493d4-265e-43f4-871f-bd56da1371a6)
 
 - The total count of employees in this department is 6  with males and female both having a count of 3. 
-- This is another gender balanced department but the salary by gender report shows the females being paid more than the males. This can also be due the females having more senior roles in this department. 
+- This is another gender balanced department but the salary by gender report shows the females being paid more than the males. This can also be due the females having more senior roles in this department.
+
+**Operations Department**
+
+![Screenshot (51)](https://github.com/user-attachments/assets/29bd2bda-c621-47da-a76b-3e535d96463e)
+
+- This is the department with the highest number of  employees in this company with a total count of  12. The males appears more in population with a count of 8 and the female gender count at 4.
+- The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department. 
+- This high population of 12 employees explains why the operations department has the highest salary payment in the company. 
+
+**Sales Department** 
+
+![Screenshot (50)](https://github.com/user-attachments/assets/16a2dfea-a7e3-4364-9ab3-07ad470b81fe)
+
+- The total count of employees in this department is 6  with males and female both having a count of 3. 
+- This gender balanced department shows the males being paid more than the females by a slight difference. Males having more senior roles in this department can also explain this slight difference in pay. 
 
 
+## Recommendations
 
+- Investigate salary disparities in high-paying departments (like Operations and Finance) to ensure gender pay equity.
 
-/[](https://github.com/user-attachments/assets/cd24adbc-267b-499e-af60-8fb88beada69)
+- Evaluate role distribution by gender in each department — are men getting higher-paying roles?
 
-Operations Department 
+- Consider boosting compensation or incentives in Sales and Marketing if those departments are critical to growth but underfunded. 
 
-This is the department with the highest number of  employees in this company with a total count of  12. The males appears more in population with a count of 8 and the female gender count at 4
+## Conclusion
 
-The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department. 
-
-This high population of 12 employees explains why the operations department has the highest salary payment in the company. 
-
-Sales Department 
-
-The total count of employees in this department is 6  with males and female both having a count of 3. 
-
-This gender balanced department shows the males being paid more than the females by a slight difference. Males having more senior roles in this department can also explain this slight difference in pay. 
-
-
-Recommendations
-
-Investigate salary disparities in high-paying departments (like Operations and Finance) to ensure gender pay equity.
-
-Evaluate role distribution by gender in each department — are men getting higher-paying roles?
-
-Consider boosting compensation or incentives in Sales and Marketing if those departments are critical to growth but underfunded. 
-
-Conclusion
-
-This project shows a comprehensive analysis on the gender dominance and salary in the different departments of this company.
-
-The males are in high population in 2 of 6 departments, while the females dominate 1 department out the 6 departments. 3 of the 6 departments has a balanced gender population. 
+This project shows a comprehensive analysis on the gender dominance and salary in the different departments of this company. The males are in high population in 2 of 6 departments, while the females dominate 1 department out the 6 departments. 3 of the 6 departments has a balanced gender population. 
 
 Overall the males earn more than the females as reflected in the Finance, HR, Operations and Sales departments. And the female are highly paid in the IT and Marketing Departments. 
 
