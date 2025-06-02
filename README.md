@@ -75,6 +75,7 @@ It shows a donut chart of 6 departments by their salaries. The departments inclu
 The chart shows that the Operations department has the highest salary at 908,850. This is followed by the Finance department at 772,470  then the IT department at 760,060. 
 The lower half of the salary scale are the HR, Marketing and Sales department respectively. 
 
+
 Aside from the slicer displaying the various departments, the dashboard shows a cluster bar chart that shows the total male salary at 1.96million and the total female salary at 1.73million.
 
 ## Insights 
@@ -82,7 +83,8 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 ### Based On Departments 
 
 **Finance Department** 
-pic
+
+![Screenshot (43)](https://github.com/user-attachments/assets/2661af28-50fa-4347-9611-045058f8131c)
 - The total count of employees in this department is  10 with the males being more in population with a count of 6 and the female gender count at 4.
 - The salary by gender reflects the males being paid more due to their population and the female having a lower population has the lower half of salary in this department.
 
