@@ -98,11 +98,12 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 
 
 
-IT Department 
+**IT Department** 
 
-The total count of employees in this department is  10 with the female count being significantly high at 7 and the male gender count at 3
+![Screenshot (52)](https://github.com/user-attachments/assets/26c58ffb-e749-4d68-b569-851b7039f673)
 
-The salary by gender reflects the females being paid more than the male gender. The report shows this a female dominated department in both population and senior roles, thus they earn significantly higher than their male counterpart.  
+- The total count of employees in this department is  10 with the female count being significantly high at 7 and the male gender count at 3.
+- The salary by gender reflects the females being paid more than the male gender. The report shows this a female dominated department in both population and senior roles, thus they earn significantly higher than their male counterpart.  
 
 HR Department 
 
