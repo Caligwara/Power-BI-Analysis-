@@ -141,7 +141,7 @@ Aside from the slicer displaying the various departments, the dashboard shows a 
 
 This project shows a comprehensive analysis on the gender dominance and salary in the different departments of this company. The males are in high population in 2 of 6 departments, while the females dominate 1 department out the 6 departments. 3 of the 6 departments has a balanced gender population. 
 
-Overall the males earn more than the females as reflected in the Finance, HR, Operations and Sales departments. And the female are highly paid in the IT and Marketing Departments. 
+Overall the males earn more than the females as reflected in the Finance, HR, Operations and Sales departments. While the female are highly paid in the IT and Marketing Departments. 
 
  
 
