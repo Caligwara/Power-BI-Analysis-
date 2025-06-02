@@ -1,10 +1,6 @@
 # Power-BI-Analysis-
-![Uploading Screenshot (42).png…](https://github.com/Caligwara/Power-BI-Analysis-/blob/main/Screenshot%20(42).png)
-
 
 # Project Title: Employee Gender Analysis
-
-
 
 ## Project Overview
 
@@ -14,55 +10,47 @@ This is a personal project to show the gender workforce and strength in a workpl
 
 The data source is an Ai generated excel csv. File containing data from the Human Resources (HR) Department. 
 
-![](https://github.com/Caligwara/Power-BI-Analysis-/blob/main/Screenshot%20(46).png) 
-
 ## Tools Used
 
-Power BI for data preparation and data analysis and Visualization. 
+- Power BI for data preparation and data analysis and Visualization. 
 
-Git Hub for portfolio building
+- Git Hub for portfolio building
 
 ## Objectives
 
-Data Preparation: Profile and Prepare data for analysis.
+- Data Preparation: Profile and Prepare data for analysis.
 
-Visualizations: Build a dynamic dashboard to visualize our analysis 
+- Visualizations: Build a dynamic dashboard to visualize our analysis 
 
-Project Structure
+## Project Structure
 
 1. Data Preparation
+Data is prepared by importing the csv file on Excel to understand the data and perform various task like:
 
-Data is prepared by importing the csv file on Excel to understand the data and perform various task like
+- Transformation of the data is done to check the data profile, data, and data distribution. This is done to observe the integrity of the data and clean and prepare the data where necessary. 
 
-Transformation of the data is done to check the data profile, data, and data distribution. This is done to observe the integrity of the data and clean and prepare the data where necessary. 
+- To analyze the HR data, a measure is added to calculate the total count of Employees. 
 
-To analyze the HR data, a measure is added to calculate the total count of Employees. 
-
-After the preparation, cleaning and analysis of the data is done. The next step is to close and apply 
-
-
-
-pic
-
+- After the preparation, cleaning and analysis of the data is done. The next step is to close and apply.
 
 
 2. Dash Board Setup 
 
-Inserting a card visual in the report view , the first report is displayed, which is the  Employee Count 
+- Inserting a card visual in the report view , the first report is displayed, which is the  Employee Count.
 
-Using the Q and A visuals, the count of female and male gender is generated and the displayed respectively 
+- Using the Q and A visuals, the count of female and male gender is generated and the displayed respectively.
 
-A donut chart is brought in to display the salary by the six(6) departments.
+- A donut chart is brought in to display the salary by the six(6) departments.
 
-Finally, a cluster bar chart is Displayed to show Salary by Gender..
+- Finally, a cluster bar chart is Displayed to show Salary by Gender.
 
-A slicer for the departments is added in other to filter and  find specific insights
+- A slicer for the departments is added in other to filter and  find specific insights.
 
 
 
 3. Visualizations
 
-Pic 
+ ![Screenshot (42)](https://github.com/user-attachments/assets/a5643812-b5b0-43aa-a4d7-9a13b828b74e)
 
 
 
